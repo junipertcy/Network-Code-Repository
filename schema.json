@@ -1,5 +1,6 @@
 {
   "name": "code_name",
+  "desc": "the description to the program",
   "links": ["link-to-the-code-1", "link-to-the-code-2"],
   "licence": "license-name",
   "licence-link": "link-to-the-details-of-the-license",
@@ -9,8 +10,8 @@
     "email": ""
   }],
   "dates": {
-    "createdTime": "",
-    "lastUpdatedTime": ""
+    "createdYear": "",
+    "lastUpdatedYear": ""
   },
   "io": {
     "inputs": ["gml", "graphml", "metis", "mtx", "edgelist", "gt", "live network interfaces"],
@@ -24,7 +25,7 @@
     "tutorials": ["link-to-tutorial"],
     "demos": ["link-to-demo"]
   },
-  "features": ["parallelizable", "Python2.7"]
+  "tags": ["parallelizable", "Python2.7"]
 }
 
 

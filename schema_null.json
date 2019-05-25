@@ -1,5 +1,6 @@
 {
   "name": "placeholder",
+  "desc": "placeholder",
   "category": ["placeholder.placeholder"],
   "links": ["placeholder", "placeholder"],
   "licence": "placeholder",
@@ -10,8 +11,8 @@
     "email": "placeholder"
   }],
   "dates": {
-    "createdTime": "placeholder",
-    "lastUpdatedTime": "placeholder"
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
   },
   "io": {
     "inputs": ["placeholder", "placeholder"],
@@ -25,7 +26,7 @@
     "tutorials": ["placeholder"],
     "demos": ["placeholder"]
   },
-  "features": ["placeholder", "placeholder"]
+  "keys": ["placeholder", "placeholder"]
 }
 
 
