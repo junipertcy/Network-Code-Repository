@@ -1,0 +1,34 @@
+{
+  "name": "Infomap",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["http://www.mapequation.org/index.html"],
+  "license": {
+    "name": "GNU AGPL v3",
+    "link": "https://choosealicense.com/licenses/agpl-3.0/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "Martin Rosvall",
+    "email": "",
+    "site": "http://www.tp.umu.se/~rosvall/index.html"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]
+  },
+  "tags": ["placeholder", "placeholder"]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "igraph",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["http://igraph.org/"],
+  "license": {
+    "name": "GNU GPL v2",
+    "link": "https://choosealicense.com/licenses/gpl-2.0/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "placeholder",
+    "email": "placeholder"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]
+  },
+  "tags": ["placeholder", "placeholder"]
+}

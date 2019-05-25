@@ -1,0 +1,35 @@
+{
+  "name": "netwulf",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["https://github.com/benmaier/netwulf"],
+  "license": {
+    "name": "MIT",
+    "link": "https://choosealicense.com/licenses/mit/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "Benjamin F. Maier",
+    "email": "placeholder",
+    "site": "http://benmaier.org/"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""],
+    "publications": [""]
+  },
+  "tags": ["placeholder", "placeholder"]
+}

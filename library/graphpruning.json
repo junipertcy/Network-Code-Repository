@@ -1,0 +1,34 @@
+{
+  "name": "GraphPruning",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["https://github.com/naviddianati/GraphPruning"],
+  "license": {
+    "name": "GNU LGPL v3",
+    "link": "https://choosealicense.com/licenses/lgpl-3.0/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "Navid Dianati",
+    "email": "placeholder",
+    "gscholar": "https://scholar.google.com/citations?hl=en&user=guPKE8QAAAAJ"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]
+  },
+  "tags": ["placeholder", "placeholder"]
+}

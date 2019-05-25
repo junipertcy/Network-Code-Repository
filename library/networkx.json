@@ -1,0 +1,33 @@
+{
+  "name": "NetworkX",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["https://networkx.github.io/"],
+  "license": {
+    "name": "BSD 3-Clause",
+    "link": "https://choosealicense.com/licenses/bsd-3-clause/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "placeholder",
+    "email": "placeholder"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]    
+  },
+  "tags": ["placeholder", "placeholder"]
+}

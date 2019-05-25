@@ -1,0 +1,33 @@
+{
+  "name": "tikz-network",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["https://github.com/hackl/tikz-network"],
+  "license": {
+    "name": "GNU GPL v3",
+    "link": "https://choosealicense.com/licenses/gpl-3.0/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "placeholder",
+    "email": "placeholder"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]
+  },
+  "tags": ["placeholder", "placeholder"]
+}

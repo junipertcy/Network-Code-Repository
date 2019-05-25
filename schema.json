@@ -1,13 +1,18 @@
 {
   "name": "code_name",
   "desc": "the description to the program",
+  "category": "library.general",
   "links": ["link-to-the-code-1", "link-to-the-code-2"],
-  "licence": "license-name",
-  "licence-link": "link-to-the-details-of-the-license",
+  "license": {
+    "name": "placeholder",
+    "link": "placeholder"
+  },
   "languages": [""],
   "authors": [{
     "name": "",
-    "email": ""
+    "email": "",
+    "site": "",
+    "gscholar": ""
   }],
   "dates": {
     "createdYear": "",
@@ -23,9 +28,8 @@
   },
   "community": {
     "tutorials": ["link-to-tutorial"],
-    "demos": ["link-to-demo"]
+    "demos": ["link-to-demo"],
+    "publications": [""]
   },
   "tags": ["parallelizable", "Python2.7"]
 }
-
-

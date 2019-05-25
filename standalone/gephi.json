@@ -1,0 +1,33 @@
+{
+  "name": "Gephi",
+  "desc": "Gephi is the leading visualization and exploration software for all kinds of graphs and networks. Gephi is open-source and free.",
+  "category": "standalone.general",
+  "links": ["https://gephi.org/"],
+  "license": {
+    "name": "CDDL + GNU GPL v3",
+    "link": ""
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "placeholder",
+    "email": "placeholder"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]    
+  },
+  "tags": ["placeholder", "placeholder"]
+}

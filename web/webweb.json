@@ -1,0 +1,38 @@
+{
+  "name": "webweb",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["http://danlarremore.com/webweb/"],
+  "license": {
+    "name": "GNU GPL v3",
+    "link": "https://choosealicense.com/licenses/gpl-3.0/"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "Daniel Larremore",
+    "email": "",
+    "site": "http://danlarremore.com/"
+  },{
+    "name": "Hunter Wapman",
+    "email": "",
+    "site": "http://hneutr.github.io/"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": [""]    
+  },
+  "tags": ["placeholder", "placeholder"]
+}

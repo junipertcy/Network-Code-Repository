@@ -1,14 +1,18 @@
 {
   "name": "placeholder",
   "desc": "placeholder",
-  "category": ["placeholder.placeholder"],
+  "category": "placeholder.placeholder",
   "links": ["placeholder", "placeholder"],
-  "licence": "placeholder",
-  "licence-link": "placeholder",
+  "license": {
+    "name": "placeholder",
+    "link": "placeholder"
+  },
   "languages": ["placeholder"],
   "authors": [{
     "name": "placeholder",
-    "email": "placeholder"
+    "email": "placeholder",
+    "site": "",
+    "gscholar": ""
   }],
   "dates": {
     "createdYear": "placeholder",
@@ -24,9 +28,8 @@
   },
   "community": {
     "tutorials": ["placeholder"],
-    "demos": ["placeholder"]
+    "demos": ["placeholder"],
+    "publications": ["placeholder"]
   },
-  "keys": ["placeholder", "placeholder"]
+  "tags": ["placeholder", "placeholder"]
 }
-
-

@@ -1,0 +1,33 @@
+{
+  "name": "PNet",
+  "desc": "placeholder",
+  "category": "placeholder.placeholder",
+  "links": ["http://www.melnet.org.au/pnet/"],
+  "license": {
+    "name": "unknown",
+    "link": "unknown"
+  },
+  "languages": ["placeholder"],
+  "authors": [{
+    "name": "placeholder",
+    "email": "placeholder"
+  }],
+  "dates": {
+    "createdYear": "placeholder",
+    "lastUpdatedYear": "placeholder"
+  },
+  "io": {
+    "inputs": ["placeholder", "placeholder"],
+    "outputs": ["placeholder", "placeholder"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["placeholder"],
+    "demos": ["placeholder"],
+    "publications": ["placeholder"]
+  },
+  "tags": ["placeholder", "placeholder"]
+}
