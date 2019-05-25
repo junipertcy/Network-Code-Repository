@@ -1,0 +1,34 @@
+{
+  "name": "Graph-tool",
+  "desc": "Graph-tool is an efficient Python module for manipulation and statistical analysis of graphs (a.k.a. networks).",
+  "category": ["library.general"],
+  "links": ["https://graph-tool.skewed.de/"],
+  "licence": {
+    "name": "GNU GPL v3",
+    "link": "https://choosealicense.com/licenses/gpl-3.0/",
+  },
+  "languages": ["Python", "C++"],
+  "authors": [{
+    "name": "Tiago P. Peixoto",
+    "email": "https://skewed.de/tiago"
+  }],
+  "dates": {
+    "createdYear": "2006",
+    "lastUpdatedYear": "2019"
+  },
+  "io": {
+    "inputs": ["graphml", "gml", "dot", "gt"],
+    "outputs": ["graphml", "gml", "dot", "gt"]
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": ["https://graph-tool.skewed.de/static/doc/demos/index.html"],
+    "demos": []
+  },
+  "tags": ["OpenMP"]
+}
+
+
