@@ -28,7 +28,7 @@
     "tutorials": ["https://graph-tool.skewed.de/static/doc/demos/index.html"],
     "demos": []
   },
-  "tags": ["OpenMP"]
+  "tags": ["Statistical Analysis","Graph Generation","Visualization","OpenMP"]
 }
 
 
