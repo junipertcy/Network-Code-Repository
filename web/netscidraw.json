@@ -1,0 +1,59 @@
+{
+  "name": "NetSciDraw",
+  "desc": "NetSciDraw is a tool for thinking in systems. It allows you to draw shapes, fill them with ideas, connect them with arrows, create labels, and move all of those around in order for you to understand your unique 'network'. To draw just hold down your mouse, finger, or stylus on your device. When you are all finished, you can erase whatever you want to with the eraser.",
+  "category": "web.visualization",
+  "links": ["http://coco.binghamton.edu/netscidraw/"],
+  "license": {
+    "name": "unknown",
+    "link": "unknown"
+  },
+  "languages": ["JavaScript"],
+  "authors": [
+    {
+      "name": "Adam Lindeman",
+      "email": "alindem1@binghamton.edu"
+    }, 
+    {
+      "name": "Joe Di Piero",
+      "email": "jdipier1@binghamton.edu"
+    },
+    {
+      "name": "Thomas Mayer",
+      "email": "tmayer1@binghamton.edu"
+    },    
+    {
+      "name": "Justin Rowe",
+      "email": "jrowe5@binghmaton.edu"
+    },
+    {
+      "name": "Chris Bachman",
+      "email": "cbachma3@binghamton.edu"
+    },
+    {
+      "name": "Jason Heller",
+      "email": "jheller9@binghamton.edu"
+    },
+    {
+      "name": "Hiroki Sayama",
+      "email": "sayama@binghamton.edu"
+    }
+  ],
+  "dates": {
+    "createdYear": "2018",
+    "lastUpdatedYear": "2019"
+  },
+  "io": {
+    "inputs": [],
+    "outputs": []
+  },
+  "github": {
+    "stars": 0,
+    "forks": 0
+  },
+  "community": {
+    "tutorials": [],
+    "demos": [],
+    "publications": []
+  },
+  "tags": []
+}
