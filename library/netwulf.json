@@ -1,35 +1,30 @@
 {
   "name": "netwulf",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "Interactive visualization of networks based on Ulf Aslak's d3 web app.",
+  "category": "library.visualization",
   "links": ["https://github.com/benmaier/netwulf"],
   "license": {
     "name": "MIT",
     "link": "https://choosealicense.com/licenses/mit/"
   },
-  "languages": ["placeholder"],
+  "languages": ["Python"],
   "authors": [{
     "name": "Benjamin F. Maier",
-    "email": "placeholder",
+    "email": "contact@benmaier.org",
     "site": "http://benmaier.org/"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2019"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""],
-    "publications": [""]
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

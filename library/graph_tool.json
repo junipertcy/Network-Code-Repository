@@ -20,10 +20,6 @@
     "inputs": ["graphml", "gml", "dot", "gt"],
     "outputs": ["graphml", "gml", "dot", "gt"]
   },
-  "github": {
-    "stars": 0,
-    "forks": 0
-  },
   "community": {
     "tutorials": ["https://graph-tool.skewed.de/static/doc/demos/index.html"],
     "demos": [""],

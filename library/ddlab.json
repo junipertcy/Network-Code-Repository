@@ -1,34 +1,30 @@
 {
   "name": "DDLab",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "DDLab is a collection of tools for researching Cellular Automata, Random Boolean Networks, multi-value Discrete Dynamical Networks, and beyond\n",
+  "category": "library.general",
   "links": ["http://www.ddlab.org/"],
   "license": {
     "name": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["C"],
   "authors": [{
     "name": "Andy Wuensche",
-    "email": "",
+    "email": "andy@ddlab.org",
     "site": "http://www.ddlab.org/AW.html"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2019"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]    
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

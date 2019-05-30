@@ -1,34 +1,34 @@
 {
   "name": "nauty",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "nauty is a program for computing automorphism groups of graphs and digraphs",
+  "category": "library.special",
   "links": ["http://pallini.di.uniroma1.it/"],
   "license": {
     "name": "Apache-2.0",
     "link": "https://choosealicense.com/licenses/apache-2.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["C"],
   "authors": [{
     "name": "Brendan D. McKay",
     "email": "",
     "site": "http://users.cecs.anu.edu.au/~bdm/index.html"
+  }, {
+    "name": "Adolfo Piperno",
+    "email": "",
+    "site": "http://users.cecs.anu.edu.au/~bdm/index.html"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2017"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]    
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

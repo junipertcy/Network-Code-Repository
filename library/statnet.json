@@ -1,33 +1,30 @@
 {
   "name": "statnet",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "Software tools for the analysis, simulation and visualization of network data.",
+  "category": "library.general",
   "links": ["http://statnet.csde.washington.edu/index.shtml"],
   "license": {
     "name": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["R"],
   "authors": [{
-    "name": "placeholder",
-    "email": "placeholder"
+    "name": "Martina Morris",
+    "email": "morrism@u.washington.edu",
+    "sizte": "https://faculty.washington.edu/morrism/"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2016"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]     
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

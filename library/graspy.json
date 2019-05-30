@@ -1,33 +1,28 @@
 {
   "name": "GrasPy",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
-  "links": ["https://neurodata.io/graspy/"],
+  "desc": "Simple, flexible and powerful graph analysis library grounded in statistical theories.\n GrasPy offers scikit-learn compliant APIs and it provides clear feedback upon user error.",
+  "category": "library.general",
+  "links": ["https://neurodata.io/graspy/", "https://github.com/neurodata/graspy"],
   "license": {
     "name": "Apache-2.0",
     "link": "https://choosealicense.com/licenses/apache-2.0/"
    },
-  "languages": ["placeholder"],
+  "languages": ["Python"],
   "authors": [{
-    "name": "placeholder",
-    "email": "placeholder"
+    "name": "Avanti Athreya"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "2018",
+    "lastUpdatedYear": "2019"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

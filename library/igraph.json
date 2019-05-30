@@ -1,33 +1,32 @@
 {
   "name": "igraph",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
-  "links": ["http://igraph.org/"],
+  "desc": "igraph is a collection of network analysis tools with the emphasis on efficiency, portability and ease of use.",
+  "category": "library.general",
+  "links": ["http://igraph.org/", "https://github.com/igraph"],
   "license": {
     "name": "GNU GPL v2",
     "link": "https://choosealicense.com/licenses/gpl-2.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["C++", "Python", "R", "Mathematica", "C"],
   "authors": [{
-    "name": "placeholder",
-    "email": "placeholder"
-  }],
+    "name": "Gábor Csárdi",
+    "email": "csardi.gabor@gmail.com"
+  }, {
+    "name": "Tamás Nepusz"
+  }
+  ],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "2006",
+    "lastUpdatedYear": "2019"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

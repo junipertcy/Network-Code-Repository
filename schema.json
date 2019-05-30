@@ -22,10 +22,6 @@
     "inputs": ["gml", "graphml", "metis", "mtx", "edgelist", "gt", "live network interfaces"],
     "outputs": ["text reports", "images"]
   },
-  "github": {
-    "stars": 100,
-    "forks": 23
-  },
   "community": {
     "tutorials": ["link-to-tutorial"],
     "demos": ["link-to-demo"],

@@ -1,33 +1,29 @@
 {
   "name": "tikz-network",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "A tool to visualize complex networks in LaTeX",
+  "category": "library.special",
   "links": ["https://github.com/hackl/tikz-network"],
   "license": {
     "name": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["TeX"],
   "authors": [{
-    "name": "placeholder",
-    "email": "placeholder"
+    "name": "Juergen Hackl",
+    "email": ""
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2018"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

@@ -22,10 +22,6 @@
     "inputs": ["placeholder", "placeholder"],
     "outputs": ["placeholder", "placeholder"]
   },
-  "github": {
-    "stars": 0,
-    "forks": 0
-  },
   "community": {
     "tutorials": ["placeholder"],
     "demos": ["placeholder"],

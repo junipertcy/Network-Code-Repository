@@ -1,34 +1,30 @@
 {
   "name": "MuxViz",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "MuxViz is a framework for the multilayer analysis and visualization of networks.",
+  "category": "standalone.general",
   "links": ["http://muxviz.net/"],
   "license": {
     "name": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["R", "GNU Octave"],
   "authors": [{
     "name": "Manlio De Domenico",
-    "email": "",
+    "email": "mdedomenico@fbk.eu",
     "site": "https://comunelab.fbk.eu/manlio/index.php"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2014"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]    
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

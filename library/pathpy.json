@@ -1,34 +1,30 @@
 {
   "name": "pathpy",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "pathpy is an Open Source python package providing higher-order network analytics for time series data.",
+  "category": "library.general",
   "links": ["http://www.pathpy.net/"],
   "license": {
     "name": "GNU AGPL v3",
     "link": "https://choosealicense.com/licenses/agpl-3.0/"
   },
-  "languages": ["placeholder"],
+  "languages": ["Python"],
   "authors": [{
     "name": "Ingo Scholtes",
-    "email": "",
+    "email": "scholtes@ifi.uzh.ch",
     "site": "https://www.ifi.uzh.ch/en/dag/people/scholtes.html"
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "2019"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
+    "tutorials": [""],
+    "demos": [""],
     "publications": [""]    
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }

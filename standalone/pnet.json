@@ -1,33 +1,29 @@
 {
   "name": "PNet",
-  "desc": "placeholder",
-  "category": "placeholder.placeholder",
+  "desc": "PNet is a software for the statistical analysis of social network data using Exponential Random Graph Models (ERGM) and Auto-logistic Actor Attribute Models (ALAAM).",
+  "category": "standalone.special",
   "links": ["http://www.melnet.org.au/pnet/"],
   "license": {
     "name": "unknown",
     "link": "unknown"
   },
-  "languages": ["placeholder"],
+  "languages": ["Java", ".NET"],
   "authors": [{
-    "name": "placeholder",
-    "email": "placeholder"
+    "name": "Peng Wang",
+    "email": ""
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdYear": "",
+    "lastUpdatedYear": "unknown"
   },
   "io": {
-    "inputs": ["placeholder", "placeholder"],
-    "outputs": ["placeholder", "placeholder"]
-  },
-  "github": {
-    "stars": 0,
-    "forks": 0
+    "inputs": [""],
+    "outputs": [""]
   },
   "community": {
-    "tutorials": ["placeholder"],
-    "demos": ["placeholder"],
-    "publications": ["placeholder"]
+    "tutorials": [""],
+    "demos": [""],
+    "publications": [""]
   },
-  "tags": ["placeholder", "placeholder"]
+  "tags": [""]
 }
