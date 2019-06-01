@@ -45,13 +45,14 @@ Each JSON file consists of the following fields:
 
 * ``desc`` - `String`: Short description of the repository.
 
-* ``category`` - `String`: Category of the repository; in format of ``category``.``subcategory``, connected by a dot.
+* ``category`` - `String`: Category of the repository; in format of ``category.subcategory``, connected by a dot.
 
 * ``links`` - `String[]`: Links to the source code, homepage, or Git repository.
 
 * ``license`` - `Object`
    * ``name`` - Type of license.
    * ``link`` - Link to description.
+
 * ``languages`` - `String[]`: Programming languages supported, or based.
 * ``authors`` - `Object[]`
 * ``dates`` - `Object`
