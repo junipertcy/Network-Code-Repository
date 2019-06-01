@@ -39,24 +39,24 @@ Each JSON file consists of the following fields:
 
 * **`name`** - _String_: Name of the repository.
 
-* **`desc`** - _**String**_: Short description of the repository.
+* **`desc`** - _String_: Short description of the repository.
 
-* **`category`** - _**String**_: Category of the repository; in the format of `$category.$subcategory`, connected via a dot.
+* **`category`** - _String_: Category of the repository; in the format of `$category.$subcategory`, connected via a dot.
 
-* **`links`** - _**String[]**_: Links to the source code, homepage, or Git repository.
-* **`license`** - _**Object**_
+* **`links`** - _String[]_: Links to the source code, homepage, or Git repository.
+* **`license`** - _Object_
    * `type` - Type of license.
    * `link` - Link to description.
 
-* **`languages`** - _**String[]**_: Programming languages supported, or based.
-* **`authors`** - _**Object[]**_:
-* **`dates`** - _**Object**_:
+* **`languages`** - _String[]_: Programming languages supported, or based.
+* **`authors`** - _Object[]_:
+* **`dates`** - _Object_:
    * `createdTime` - Created time of the repository; be it a timestamp or just the calendar year.
    * `lastUpdatedTime` - Last updated time of the repository; be it a timestamp or just the calendar year.
 
-* **`io`** - _**Object**_:
-* **`community`** - _**Object**_:
-* **`tags`** - _**String[]**_:
+* **`io`** - _Object_:
+* **`community`** - _Object_:
+* **`tags`** - _String[]_:
 
 
 ## Future Work
