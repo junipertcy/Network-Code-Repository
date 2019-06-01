@@ -41,7 +41,7 @@ Each JSON file consists of the following fields:
 
 * `**desc**` - _**String**_: Short description of the repository.
 
-* `**category**` - _**String**_: Category of the repository; in the format of ``$category.$subcategory``, connected via a dot.
+* `**category**` - _**String**_: Category of the repository; in the format of `$category.$subcategory`, connected via a dot.
 
 * `**links**` - _**String[]**_: Links to the source code, homepage, or Git repository.
 * `**license**` - _**Object**_
