@@ -41,7 +41,7 @@ Metadata
 ~~~~~~~~
 Each JSON file consists of the following fields:
 
-* ``**name**`` - _**String**_: Name of the repository.
+* **``name``** - _**String**_: Name of the repository.
 
 * ``desc`` - `String`: Short description of the repository.
 
