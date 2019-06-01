@@ -1,6 +1,6 @@
 # Network-Code-Repository
 This is a centralized repository for network analysis tools, so to speak,
-the ``awesome list`` of network code repositories.
+the `awesome list` of network code repositories.
 
 Created during the [OpenNetSci Hackathon](https://opennetsci.github.io/) (May 25-26, 2019), with inputs from
 [Nesreen K. Ahmed](http://nesreenahmed.com/),
@@ -37,26 +37,26 @@ This repository is structured as follows.
 
 Each JSON file consists of the following fields:
 
-* **``name``** - _**String**_: Name of the repository.
+* `**name**` - _**String**_: Name of the repository.
 
-* ``desc`` - `String`: Short description of the repository.
+* `**desc**` - _**String**_: Short description of the repository.
 
-* ``category`` - `String`: Category of the repository; in the format of ``$category.$subcategory``, connected via a dot.
+* `**category**` - _**String**_: Category of the repository; in the format of ``$category.$subcategory``, connected via a dot.
 
-* ``links`` - `String[]`: Links to the source code, homepage, or Git repository.
-* ``license`` - `Object`
-   * ``type`` - Type of license.
-   * ``link`` - Link to description.
+* `**links**` - _**String[]**_: Links to the source code, homepage, or Git repository.
+* `**license**` - _**Object**_
+   * `type` - Type of license.
+   * `link` - Link to description.
 
-* ``languages`` - `String[]`: Programming languages supported, or based.
-* ``authors`` - `Object[]`:
-* ``dates`` - `Object`:
-   * ``createdTime`` - Created time of the repository; be it a timestamp or just the calendar year.
-   * ``lastUpdatedTime`` - Last updated time of the repository; be it a timestamp or just the calendar year.
+* `**languages**` - _**String[]**_: Programming languages supported, or based.
+* `**authors**` - _**Object[]**_:
+* `**dates**` - _**Object**_:
+   * `createdTime` - Created time of the repository; be it a timestamp or just the calendar year.
+   * `lastUpdatedTime` - Last updated time of the repository; be it a timestamp or just the calendar year.
 
-* ``io`` - `Object`:
-* ``community`` - `Object`:
-* ``tags`` - `String[]`:
+* `**io**` - _**Object**_:
+* `**community**` - _**Object**_:
+* `**tags**` - _**String[]**_:
 
 
 ## Future Work
