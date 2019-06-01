@@ -41,17 +41,19 @@ Metadata
 ~~~~~~~~
 Each JSON file consists of the following fields:
 
-* ``name``
-* ``desc``
-* ``category``
-* ``links``
-* ``license``
-* ``languages``
-* ``authors``
-* ``dates``
-* ``io``
-* ``community``
-* ``tags``
+* ``name`` - `String`: Name of the repository.
+* ``desc`` - `String`: Short description of the repository.
+* ``category`` - `String`: Category of the repository; in format of ``category``.``subcategory``, connected by a dot.
+* ``links`` - `String[]`: Links to the source code, homepage, or Git repository.
+* ``license`` - `Object`
+
+   * ``name`` - Type of license.
+* ``languages`` - `String[]`: Programming languages supported, or based.
+* ``authors`` - `Object[]`
+* ``dates`` - `Object`
+* ``io`` - `Object`
+* ``community`` - `Object`
+* ``tags`` - `String[]`
 
 
 Future Work
