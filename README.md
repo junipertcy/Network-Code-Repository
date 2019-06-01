@@ -45,8 +45,11 @@ Each JSON file consists of the following fields:
 
 * `links` - _String[]_: Links to the source code, homepage, or Git repository.
 * `license` - _Object_
-   * `type` - Type of license.
-   * `link` - Link to description.
+   * `type` - Type of license; typical open source licenses are `MIT`, `Apache-2.0`, or `GNU GPLv3`.
+     If you are not sure what to choose, please visit: [choose a license](https://choosealicense.com/)
+   * `link` - Link to description. 
+     Please paste the link to licenses that have been approved by the Open Source Initiative. 
+     For details, please visit: [Licenses by Name](https://opensource.org/licenses/alphabetical) 
 
 * `languages` - _String[]_: Programming languages supported, or based.
 * `authors` - _Object[]_:
