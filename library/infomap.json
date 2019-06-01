@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["http://www.mapequation.org/index.html"],
   "license": {
-    "name": "GNU AGPL v3",
+    "type": "GNU AGPL v3",
     "link": "https://choosealicense.com/licenses/agpl-3.0/"
   },
   "languages": ["C++"],
@@ -18,8 +18,8 @@
     "site": ""
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2019"
+    "createdTime": "",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],

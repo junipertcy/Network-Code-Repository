@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["https://networkx.github.io/"],
   "license": {
-    "name": "BSD 3-Clause",
+    "type": "BSD 3-Clause",
     "link": "https://choosealicense.com/licenses/bsd-3-clause/"
   },
   "languages": ["Python"],
@@ -22,8 +22,8 @@
     "site": ""
   }],
   "dates": {
-    "createdYear": "2005",
-    "lastUpdatedYear": "2019"
+    "createdTime": "2005",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],

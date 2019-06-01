@@ -4,7 +4,7 @@
   "category": "standalone.general",
   "links": ["https://gephi.org/"],
   "license": {
-    "name": "CDDL + GNU GPL v3",
+    "type": "CDDL + GNU GPL v3",
     "link": ""
   },
   "languages": ["Java"],
@@ -12,8 +12,8 @@
     "name": "Mathieu Bastian"
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2017"
+    "createdTime": "",
+    "lastUpdatedTime": "2017"
   },
   "io": {
     "inputs": [""],

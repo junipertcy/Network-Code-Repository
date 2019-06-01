@@ -4,7 +4,7 @@
   "category": "standalone.special",
   "links": ["http://www.melnet.org.au/pnet/"],
   "license": {
-    "name": "unknown",
+    "type": "unknown",
     "link": "unknown"
   },
   "languages": ["Java", ".NET"],
@@ -13,8 +13,8 @@
     "email": ""
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "unknown"
+    "createdTime": "",
+    "lastUpdatedTime": "unknown"
   },
   "io": {
     "inputs": [""],

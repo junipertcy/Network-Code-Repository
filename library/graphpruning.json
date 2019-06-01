@@ -4,7 +4,7 @@
   "category": "library.special",
   "links": ["https://github.com/naviddianati/GraphPruning"],
   "license": {
-    "name": "GNU LGPL v3",
+    "type": "GNU LGPL v3",
     "link": "https://choosealicense.com/licenses/lgpl-3.0/"
   },
   "languages": ["Python"],
@@ -14,8 +14,8 @@
     "gscholar": "https://scholar.google.com/citations?hl=en&user=guPKE8QAAAAJ"
   }],
   "dates": {
-    "createdYear": "2015",
-    "lastUpdatedYear": "2016"
+    "createdTime": "2015",
+    "lastUpdatedTime": "2016"
   },
   "io": {
     "inputs": [""],

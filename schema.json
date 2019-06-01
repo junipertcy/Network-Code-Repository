@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["link-to-the-code-1", "link-to-the-code-2"],
   "license": {
-    "name": "placeholder",
+    "type": "placeholder",
     "link": "placeholder"
   },
   "languages": [""],
@@ -15,8 +15,8 @@
     "gscholar": ""
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": ""
+    "createdTime": "",
+    "lastUpdatedTime": ""
   },
   "io": {
     "inputs": ["gml", "graphml", "metis", "mtx", "edgelist", "gt", "live network interfaces"],

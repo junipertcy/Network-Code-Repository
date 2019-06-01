@@ -4,7 +4,7 @@
   "category": "library.visualization",
   "links": ["https://github.com/benmaier/netwulf"],
   "license": {
-    "name": "MIT",
+    "type": "MIT",
     "link": "https://choosealicense.com/licenses/mit/"
   },
   "languages": ["Python"],
@@ -14,8 +14,8 @@
     "site": "http://benmaier.org/"
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2019"
+    "createdTime": "",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],

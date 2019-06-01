@@ -4,7 +4,7 @@
   "category": "library.special",
   "links": ["http://pallini.di.uniroma1.it/"],
   "license": {
-    "name": "Apache-2.0",
+    "type": "Apache-2.0",
     "link": "https://choosealicense.com/licenses/apache-2.0/"
   },
   "languages": ["C"],
@@ -18,8 +18,8 @@
     "site": "http://users.cecs.anu.edu.au/~bdm/index.html"
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2017"
+    "createdTime": "",
+    "lastUpdatedTime": "2017"
   },
   "io": {
     "inputs": [""],

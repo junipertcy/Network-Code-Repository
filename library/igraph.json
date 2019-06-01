@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["http://igraph.org/", "https://github.com/igraph"],
   "license": {
-    "name": "GNU GPL v2",
+    "type": "GNU GPL v2",
     "link": "https://choosealicense.com/licenses/gpl-2.0/"
   },
   "languages": ["C++", "Python", "R", "Mathematica", "C"],
@@ -16,8 +16,8 @@
   }
   ],
   "dates": {
-    "createdYear": "2006",
-    "lastUpdatedYear": "2019"
+    "createdTime": "2006",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],
