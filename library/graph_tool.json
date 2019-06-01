@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["https://graph-tool.skewed.de/"],
   "license": {
-    "name": "GNU GPL v3",
+    "type": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
   "languages": ["Python", "C++"],
@@ -13,7 +13,7 @@
     "email": "https://skewed.de/tiago"
   }],
   "dates": {
-    "createdYear": "2006",
+    "createdTime": "2006",
     "lastUpdatedYear": "2019"
   },
   "io": {

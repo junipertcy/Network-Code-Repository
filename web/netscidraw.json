@@ -4,7 +4,7 @@
   "category": "web.visualization",
   "links": ["http://coco.binghamton.edu/netscidraw/"],
   "license": {
-    "name": "unknown",
+    "type": "unknown",
     "link": "unknown"
   },
   "languages": ["JavaScript"],
@@ -39,8 +39,8 @@
     }
   ],
   "dates": {
-    "createdYear": "2018",
-    "lastUpdatedYear": "2019"
+    "createdTime": "2018",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [],

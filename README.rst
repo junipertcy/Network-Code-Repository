@@ -45,24 +45,26 @@ Each JSON file consists of the following fields:
 
 * ``desc`` - `String`: Short description of the repository.
 
-* ``category`` - `String`: Category of the repository; in format of ``$category.$subcategory``, connected by a dot.
+* ``category`` - `String`: Category of the repository; in the format of ``$category.$subcategory``, connected via a dot.
 
 * ``links`` - `String[]`: Links to the source code, homepage, or Git repository.
 * ``license`` - `Object`
-   * ``name`` - Type of license.
+   * ``type`` - Type of license.
    * ``link`` - Link to description.
 
 * ``languages`` - `String[]`: Programming languages supported, or based.
-* ``authors`` - `Object[]`
-* ``dates`` - `Object`
-* ``io`` - `Object`
-* ``community`` - `Object`
-* ``tags`` - `String[]`
+* ``authors`` - `Object[]`:
+* ``dates`` - `Object`:
+   * ``createdTime`` - Created time of the repository; be
+   * ``lastUpdatedTime`` -
+* ``io`` - `Object`:
+* ``community`` - `Object`:
+* ``tags`` - `String[]`:
 
 
 Future Work
 -----------
 * Add more recipes to the repository!
-* Build a package manager (such as ``brew`` or ``apt-get``) that ``search``
-  repositories that match user specified keywords.
 * Write a script that generates an awesome list out of these JSON files.
+* Build a command-line tool (similar to ``brew`` or ``apt-get``) that can ``search``
+  repositories which match user-specified keywords.

@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["http://statnet.csde.washington.edu/index.shtml"],
   "license": {
-    "name": "GNU GPL v3",
+    "type": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
   "languages": ["R"],
@@ -14,8 +14,8 @@
     "sizte": "https://faculty.washington.edu/morrism/"
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2016"
+    "createdTime": "",
+    "lastUpdatedTime": "2016"
   },
   "io": {
     "inputs": [""],

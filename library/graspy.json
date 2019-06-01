@@ -4,7 +4,7 @@
   "category": "library.general",
   "links": ["https://neurodata.io/graspy/", "https://github.com/neurodata/graspy"],
   "license": {
-    "name": "Apache-2.0",
+    "type": "Apache-2.0",
     "link": "https://choosealicense.com/licenses/apache-2.0/"
    },
   "languages": ["Python"],
@@ -12,8 +12,8 @@
     "name": "Avanti Athreya"
   }],
   "dates": {
-    "createdYear": "2018",
-    "lastUpdatedYear": "2019"
+    "createdTime": "2018",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],

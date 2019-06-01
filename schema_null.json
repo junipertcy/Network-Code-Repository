@@ -4,7 +4,7 @@
   "category": "placeholder.placeholder",
   "links": ["placeholder", "placeholder"],
   "license": {
-    "name": "placeholder",
+    "type": "placeholder",
     "link": "placeholder"
   },
   "languages": ["placeholder"],
@@ -15,8 +15,8 @@
     "gscholar": ""
   }],
   "dates": {
-    "createdYear": "placeholder",
-    "lastUpdatedYear": "placeholder"
+    "createdTime": "placeholder",
+    "lastUpdatedTime": "placeholder"
   },
   "io": {
     "inputs": ["placeholder", "placeholder"],

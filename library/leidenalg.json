@@ -4,7 +4,7 @@
   "category": "library.special",
   "links": ["https://github.com/vtraag/leidenalg"],
   "license": {
-    "name": "GNU GPL v3",
+    "type": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
   "languages": ["Python", "C++"],
@@ -14,8 +14,8 @@
     "site": "http://www.traag.net/"
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2019"
+    "createdTime": "",
+    "lastUpdatedTime": "2019"
   },
   "io": {
     "inputs": [""],

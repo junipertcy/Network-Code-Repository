@@ -4,7 +4,7 @@
   "category": "library.special",
   "links": ["https://github.com/hackl/tikz-network"],
   "license": {
-    "name": "GNU GPL v3",
+    "type": "GNU GPL v3",
     "link": "https://choosealicense.com/licenses/gpl-3.0/"
   },
   "languages": ["TeX"],
@@ -13,8 +13,8 @@
     "email": ""
   }],
   "dates": {
-    "createdYear": "",
-    "lastUpdatedYear": "2018"
+    "createdTime": "",
+    "lastUpdatedTime": "2018"
   },
   "io": {
     "inputs": [""],
