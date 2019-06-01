@@ -44,21 +44,31 @@ Each JSON file consists of the following fields:
 * `category` - _String_: Category of the repository; in the format of `$category.$subcategory`, connected via a dot.
 
 * `links` - _String[]_: Links to the source code, homepage, or Git repository.
+
 * `license` - _Object_
-   * `type` - Type of license; typical open source licenses are `MIT`, `Apache-2.0`, or `GNU GPLv3`.
-     If you are not sure what to choose, please visit: [choose a license](https://choosealicense.com/)
+   * `type` - Type of license; typical open source licenses are `MIT`, `Apache-2.0`, or `GPL-3.0`.
+     (SPDX short identifier is preferred)
+     If you are not sure which one to choose, please visit: [choose a license](https://choosealicense.com/).
    * `link` - Link to description. 
      Please paste the link to licenses that have been approved by the Open Source Initiative. 
-     For details, please visit: [Licenses by Name](https://opensource.org/licenses/alphabetical) 
+     For details, please visit: [Licenses by Name](https://opensource.org/licenses/alphabetical).
 
 * `languages` - _String[]_: Programming languages supported, or based.
-* `authors` - _Object[]_:
+
+* `authors` - _Object[]_: List of authors for the repository. Each author contains the following metadata.
+   * `name`: Name of the author.
+   * `email`: Email of the author.
+   * `site`: Website of the author.
+   * `gscholar`: 
+
 * `dates` - _Object_:
    * `createdTime` - Created time of the repository; be it a timestamp or just the calendar year.
    * `lastUpdatedTime` - Last updated time of the repository; be it a timestamp or just the calendar year.
 
 * `io` - _Object_:
+
 * `community` - _Object_:
+
 * `tags` - _String[]_:
 
 
