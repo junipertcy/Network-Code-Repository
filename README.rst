@@ -47,8 +47,7 @@ Each JSON file consists of the following fields:
 
 * ``category`` - `String`: Category of the repository; in format of ``$category.$subcategory``, connected by a dot.
 
-* ```links``` - `String[]`: Links to the source code, homepage, or Git repository.
-
+* ``links`` - `String[]`: Links to the source code, homepage, or Git repository.
 * ``license`` - `Object`
    * ``name`` - Type of license.
    * ``link`` - Link to description.
@@ -64,4 +63,6 @@ Each JSON file consists of the following fields:
 Future Work
 -----------
 * Add more recipes to the repository!
+* Build a package manager (such as ``brew`` or ``apt-get``) that ``search``
+  repositories that match user specified keywords.
 * Write a script that generates an awesome list out of these JSON files.
