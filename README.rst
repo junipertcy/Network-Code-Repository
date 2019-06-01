@@ -41,7 +41,7 @@ Metadata
 ~~~~~~~~
 Each JSON file consists of the following fields:
 
-* ``name`` - `String`: Name of the repository.
+* ``**name**`` - `**String**`: Name of the repository.
 
 * ``desc`` - `String`: Short description of the repository.
 
@@ -55,8 +55,9 @@ Each JSON file consists of the following fields:
 * ``languages`` - `String[]`: Programming languages supported, or based.
 * ``authors`` - `Object[]`:
 * ``dates`` - `Object`:
-   * ``createdTime`` - Created time of the repository; be
-   * ``lastUpdatedTime`` -
+   * ``createdTime`` - Created time of the repository; be it a timestamp or just the calendar year.
+   * ``lastUpdatedTime`` - Last updated time of the repository; be it a timestamp or just the calendar year.
+
 * ``io`` - `Object`:
 * ``community`` - `Object`:
 * ``tags`` - `String[]`:
