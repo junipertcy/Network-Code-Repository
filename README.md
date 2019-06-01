@@ -1,5 +1,4 @@
-Network-Code-Repository
-=======================
+# Network-Code-Repository
 
 This is a centralized repository for network analysis tools, so to speak,
 the ``awesome list`` of network code repositories.
@@ -14,8 +13,8 @@ Our goal is to enhance the exposure of small tools and strengthen the network sc
 
 With that, please feel welcomed to send pull requests with the metadata of your code to this repository!
 
-Motivation
-----------
+## Motivation
+
 The vast majority of software developed by network scientists takes the form of small standalone code bases,
 distributed across researcher's homepages, hosting services, and code sharing site like GitLab, Bitbucket or
 GitHub. This practice encourages algorithm duplication, reduces reproducibility and favors a fragmentation of
@@ -23,8 +22,8 @@ the research community. A good way of addressing these issues would be to create
 code bases, perhaps in the spirit of `ICON <https://icon.colorado.edu/>`_ or
 `networkrepository <http://networkrepository.com/>`_.
 
-Infrastructure
---------------
+## Infrastructure
+
 We maintain a list of JSON files that encode the metadata to each code repository.
 While there is no fancy frontend design yet, it is easy to bootstrap the JSON files contained in this repository
 into a beautiful-looking website with JavaScript and HTML, or simply generate an awesome plain list with a parser
@@ -37,8 +36,8 @@ This repository is structured as follows.
 * ``standalone``: contain code that can be compiled to a binary application, runnable on an operating system.
 * ``web``: contain code to a web application that can be interacted through a browser.
 
-Metadata
-~~~~~~~~
+### Metadata
+
 Each JSON file consists of the following fields:
 
 * **``name``** - _**String**_: Name of the repository.
@@ -63,8 +62,8 @@ Each JSON file consists of the following fields:
 * ``tags`` - `String[]`:
 
 
-Future Work
------------
+## Future Work
+
 * Add more recipes to the repository!
 * Write a script that generates an awesome list out of these JSON files.
 * Build a command-line tool (similar to ``brew`` or ``apt-get``) that can ``search``
