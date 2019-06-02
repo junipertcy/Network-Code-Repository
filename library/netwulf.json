@@ -1,7 +1,7 @@
 {
   "name": "netwulf",
   "desc": "Interactive visualization of networks based on Ulf Aslak's d3 web app.",
-  "category": "library.visualization",
+  "category": "library.visual",
   "links": ["https://github.com/benmaier/netwulf"],
   "license": {
     "type": "MIT",

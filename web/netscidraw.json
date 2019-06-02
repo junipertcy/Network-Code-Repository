@@ -1,7 +1,7 @@
 {
   "name": "NetSciDraw",
   "desc": "NetSciDraw is a tool for thinking in systems. It allows you to draw shapes, fill them with ideas, connect them with arrows, create labels, and move all of those around in order for you to understand your unique 'network'. To draw just hold down your mouse, finger, or stylus on your device. When you are all finished, you can erase whatever you want to with the eraser.",
-  "category": "web.visualization",
+  "category": "web.visual",
   "links": ["http://coco.binghamton.edu/netscidraw/"],
   "license": {
     "type": "unknown",

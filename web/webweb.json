@@ -1,7 +1,7 @@
 {
   "name": "webweb",
   "desc": "webweb is a tool for creating, displaying, and sharing interactive network visualizations on the web, designed for simplicity and ease of use.",
-  "category": "web.visualization",
+  "category": "web.visual",
   "links": ["http://danlarremore.com/webweb/", "https://webwebpage.github.io/"],
   "license": {
     "type": "GNU GPL v3",

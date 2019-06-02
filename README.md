@@ -1,6 +1,6 @@
 # Network-Code-Repository
 This is a centralized repository for network analysis tools, so to speak,
-the _`Awesome list`_ of network analysis recipes.
+the _`awesome list`_ of network analysis recipes.
 
 Created during the [OpenNetSci Hackathon](https://opennetsci.github.io/) (May 25-26, 2019), with inputs from
 [Nesreen K. Ahmed](http://nesreenahmed.com/),
@@ -24,7 +24,7 @@ code bases, perhaps in the spirit of [ICON](https://icon.colorado.edu/) or
 We maintain a list of JSON files that encode the metadata to each code repository.
 While there is no fancy frontend design yet, it is easy to bootstrap the JSON files contained in this repository
 into a beautiful-looking website with JavaScript and HTML, or simply generate an awesome plain list with a parser
-script. It is also easy to import the files into a database, such as MongoDB or Postgres.
+script. It is also easy to import the files into a database, such as MongoDB or PostgreSQL.
 
 This repository is structured as follows.
 
@@ -42,6 +42,7 @@ Each JSON file consists of the following fields:
 * `desc` - _String_: Short description of the repository.
 
 * `category` - _String_: Category of the repository; in the format of `$category.$subcategory`, connected via a dot.
+  Within each category, the subcategories will be either `general`, `visual`, or `special`.
 
 * `links` - _String[]_: Links to the source code, homepage, or Git repository.
 
@@ -83,8 +84,8 @@ Each JSON file consists of the following fields:
   repositories which match user-specified keywords.
 
 ### Frontend
+You can build your own website with your preferred features implemented.
+For example, [Papers with code](https://paperswithcode.com) enables users to search code bases with keywords.
+They also show the GitHub stars that indicate a trending research work.
 Currently, the [Network Science Education in Taiwan](https://netscied.tw/tools)
 intiative has a searchable frontend for the indices listed in the repository. 
-
-You can also build your own website with your preferred functions.
-For example, [Papers with code](https://paperswithcode.com).
