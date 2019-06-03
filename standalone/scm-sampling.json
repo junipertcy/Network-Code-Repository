@@ -1,0 +1,28 @@
+{
+  "name": "scm-sampling",
+  "desc": "MCMC sampler for the Simplicial Configuration Model.",
+  "category": "standalone.special",
+  "links": ["https://github.com/jg-you/scm"],
+  "license": {
+    "type": "MIT",
+    "link": "https://github.com/jg-you/scm/blob/master/LICENSE"
+  },
+  "languages": ["C++"],
+  "authors": [{
+    "name": "Jean-Gabriel Young"
+  }],
+  "dates": {
+    "createdTime": "2017",
+    "lastUpdatedTime": "2017"
+  },
+  "io": {
+    "inputs": ["csv, facet list"],
+    "outputs": ["facet list"]
+  },
+  "community": {
+    "tutorials": ["https://github.com/jg-you/scm/blob/master/tutorial_notebook.ipynb"],
+    "demos": [""],
+    "publications": ["https://arxiv.org/abs/1705.10298", "https://doi.org/10.1103/PhysRevE.96.032312"]    
+  },
+  "tags": ["C++", "Simplicial Complexes", "CMake"]
+}
