@@ -47,12 +47,14 @@ Each JSON file consists of the following fields:
 * `links` - _String[]_: Links to the source code, homepage, or Git repository.
 
 * `license` - _Object_: Software license.
-   * `type` - Type of license; typical open source licenses are `MIT`, `Apache-2.0`, or `GPL-3.0`.
-     (SPDX short identifier is preferred)
-     If you are not sure which one to choose, please visit: [choose a license](https://choosealicense.com/).
+   * `type` - Type of license; typical open source licenses are `MIT`, `Apache-2.0`, or `GPL-3.0`
+     (SPDX short identifier is preferred).
    * `link` - Link to description. 
-     Please paste the link to licenses that have been approved by the Open Source Initiative. 
-     For details, please visit: [Licenses by Name](https://opensource.org/licenses/alphabetical).
+     Please paste the link to licenses that have been approved by the Open Source Initiative.
+   > __Note:__
+   > If you are not sure which license to choose, try read [this](https://choosealicense.com/) or [this](https://opensource.org/licenses/alphabetical).
+   > Also, the Free Software Foundation maintains a [page](https://www.gnu.org/licenses/license-list.html)
+   > on various licenses and comments about them. 
 
 * `languages` - _String[]_: Programming languages supported, or based.
 
@@ -60,7 +62,7 @@ Each JSON file consists of the following fields:
    * `name`: Name of the author.
    * `email`: Email of the author.
    * `site`: Website of the author.
-   * `gscholar`: 
+   * `gscholar`: Google scholar page of the author.
 
 * `dates` - _Object_ 
    * `createdTime` - Created time of the repository; be it a timestamp or just the calendar year.
