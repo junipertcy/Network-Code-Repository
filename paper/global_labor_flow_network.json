@@ -1,0 +1,49 @@
+{
+  "name": "global_labor_flow_network",
+  "desc": "Implementation of the core algorithms used in the paper - Global labor flow network reveals the hierarchical organization and dynamics of geo-industrial clusters in the world economy",
+  "category": "paper.nature_comm",
+  "links": [
+    "https://github.com/jaehyukpark/global_labor_flow_network"
+  ],
+  "license": {
+    "type": "BSD 3-Clause",
+    "link": "https://github.com/jaehyukpark/global_labor_flow_network/blob/master/LICENSE.txt"
+  },
+  "languages": [
+    "Python"
+  ],
+  "authors": [
+    {
+      "name": "Jaehyuk Park",
+      "email": "parkjaehyuk83@gmail.com"
+    }
+  ],
+  "dates": {
+    "createdTime": "2019",
+    "lastUpdatedTime": "2019"
+  },
+  "io": {
+    "inputs": [
+      ""
+    ],
+    "outputs": [
+      ""
+    ]
+  },
+  "community": {
+    "tutorials": [
+      ""
+    ],
+    "demos": [
+      ""
+    ],
+    "publications": [
+      "https://www.nature.com/articles/s41467-019-11380-w"
+    ]
+  },
+  "tags": [
+    "Python",
+    "LinkedIn",
+    "Labor flow network"
+  ]
+}
