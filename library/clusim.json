@@ -1,0 +1,35 @@
+{
+  "name": "CluSim",
+  "desc": "Package for calculating clustering similarity including a series of methods used to compare clusterings.",
+  "category": "library.special",
+  "links": ["https://github.com/Hoosier-Clusters/clusim"],
+  "license": {
+    "type": "MIT",
+    "link": "https://github.com/Hoosier-Clusters/clusim/blob/master/LICENSE"
+  },
+  "languages": ["Python"],
+  "authors": [{
+    "name": "Alexander Gates"
+  }, {
+    "name": "Yong-Yeol Ahn"
+  }],
+  "dates": {
+    "createdTime": "2017",
+    "lastUpdatedTime": "2019"
+  },
+  "io": {
+    "inputs": ["list"],
+    "outputs": []
+  },
+  "community": {
+    "docs": ["https://hoosier-clusters.github.io/clusim/html/clusim.html"],
+    "tutorials": [""],
+    "demos": [""],
+    "publications": [
+      "http://jmlr.org/papers/volume18/17-039/17-039.pdf",
+      "https://arxiv.org/abs/1706.06136",
+      "https://joss.theoj.org/papers/10.21105/joss.01264"
+    ]
+  },
+  "tags": ["Python", "Clustering"]
+}
