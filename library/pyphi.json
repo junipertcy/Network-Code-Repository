@@ -1,0 +1,71 @@
+{
+  "name": "PyPhi",
+  "desc": "PyPhi is a toolbox for integrated information theory, which provides a mathematical framework to fully characterize the cause-effect structure of a physical system.",
+  "category": "library.general",
+  "links": [
+    "https://github.com/wmayner/pyphi"
+  ],
+  "license": {
+    "type": "GNU GPL v3",
+    "link": "https://choosealicense.com/licenses/gpl-3.0/"
+  },
+  "languages": [
+    "Python"
+  ],
+  "authors": [
+    {
+      "name": "William G. P. Mayner",
+      "site": "http://www.willmayner.com/"
+    },
+    {
+      "name": "William Marshall",
+      "github": "https://github.com/slipperyhank"
+    },
+    {
+      "name": "Larissa Albantakis",
+      "github": "https://github.com/Albantakis"
+    },
+    {
+      "name": "Graham Findlay",
+      "github": "https://github.com/grahamfindlay"
+    },
+    {
+      "name": "Robert Marchman",
+      "github": "https://github.com/rlmv"
+    },
+    {
+      "name": "Giulio Tononi",
+      "site": "http://centerforsleepandconsciousness.med.wisc.edu/people/tononi.html"
+    }
+  ],
+  "dates": {
+    "createdTime": "2014",
+    "lastUpdatedYear": "2019"
+  },
+  "io": {
+    "inputs": [
+      ""
+    ],
+    "outputs": [
+      ""
+    ]
+  },
+  "community": {
+    "tutorials": [
+      ""
+    ],
+    "demos": [
+      "http://integratedinformationtheory.org/calculate.html"
+    ],
+    "publications": [
+      "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006343",
+      "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003588"
+    ],
+    "forum": [
+      "https://groups.google.com/forum/#!forum/pyphi-users"
+    ]
+  },
+  "tags": [
+    "Python"
+  ]
+}

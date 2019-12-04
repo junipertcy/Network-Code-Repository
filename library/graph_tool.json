@@ -10,7 +10,7 @@
   "languages": ["Python", "C++"],
   "authors": [{
     "name": "Tiago P. Peixoto",
-    "email": "https://skewed.de/tiago"
+    "site": "https://skewed.de/tiago"
   }],
   "dates": {
     "createdTime": "2006",
