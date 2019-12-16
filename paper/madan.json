@@ -1,0 +1,61 @@
+{
+  "name": "MADAN",
+  "desc": "Implementation of the algorithm used in the paper - Multi-scale Anomaly Detection on Attributed Networks.",
+  "category": "paper.aaai_20",
+  "links": [
+    "https://github.com/leoguti85/MADAN"
+  ],
+  "license": {
+    "type": "not-yet-available",
+    "link": "not-yet-available"
+  },
+  "languages": [
+    "Python"
+  ],
+  "authors": [
+    {
+      "name": "Leonardo Gutiérrez-Gómez",
+      "email": "leonardo.gutierrez@list.lu",
+      "gscholar": "https://scholar.google.com/citations?user=pZrClicAAAAJ"
+    }, {
+      "name": "Alexandre Bovet",
+      "email": "alexandre.bovet@uclouvain.be",
+      "site": "https://alexbovet.github.io/"
+    }, {
+      "name": "Jean-Charles Delvenne",
+      "email": "jean-charles.delvenne@uclouvain.be",
+      "gscholar": "https://scholar.google.com/citations?user=oVvtIAMAAAAJ"
+    }
+  ],
+  "dates": {
+    "createdTime": "2019",
+    "lastUpdatedTime": "2019"
+  },
+  "io": {
+    "inputs": [
+      ""
+    ],
+    "outputs": [
+      ""
+    ]
+  },
+  "community": {
+    "tutorials": [
+      ""
+    ],
+    "demos": [
+      ""
+    ],
+    "publications": [
+      "https://arxiv.org/abs/1912.04144"
+    ]
+  },
+  "tags": [
+    "pygsp",
+    "pandas",
+    "sklearn",
+    "networkx",
+    "matplotlib",
+    "Python"
+  ]
+}
